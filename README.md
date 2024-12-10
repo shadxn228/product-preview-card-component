@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/shadxn228/product-preview-card-component)
+- Solution URL: [Solution](https://github.com/shadxn228/product-preview-card-component)
 
 ## My process
 
